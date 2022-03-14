@@ -12,5 +12,8 @@ This is my Repository for Linux Window Managers Setup Guides, tips n tricks as w
 	- [Linux Setup - PostInstallations](https://github.com/Thanatisia/linux-postinstallations)
 
 
+- This repository has been merged for the time being with the superset repository [Linux Setup - PostInstallations](https://github.com/Thanatisia/linux-postinstallations) as of 2022-03-14 1829H
+	- This is because it feels unnecessary for this repository to be a standalone
+
 
 
